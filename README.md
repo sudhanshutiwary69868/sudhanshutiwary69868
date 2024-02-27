@@ -1,6 +1,6 @@
 # 💫 About Me:
- WEB DEV.<br> d
-DSA in cpp .<br>
+ WEB DEV<br> 
+DSA in CPP<br>
 
 
 ## 🌐 Socials:
