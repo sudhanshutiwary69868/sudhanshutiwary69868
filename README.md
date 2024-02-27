@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working on web dev.<br>I'm currently learning dsa in cpp .<br>
+ WEB DEV.<br> d
+DSA in cpp .<br>
 
 
 ## 🌐 Socials:
