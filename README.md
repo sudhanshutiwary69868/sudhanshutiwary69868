@@ -1,6 +1,8 @@
-# 💫 About Me:
- WEB DEV<br> 
-DSA in CPP<br>
+## 💫 About Me:
+- 🌐 full stack Web Developer
+- 🔗 Working on DSA using C++
+- 🔥 Currently learning WEB 3
+- 💼 Preparing for placements
 
 
 ## 🌐 Socials:
